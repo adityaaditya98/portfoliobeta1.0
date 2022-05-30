@@ -1,0 +1,24 @@
+ "shadow": (
+      property: box-shadow,
+      class: shadow,
+      values: (
+        null: $box-shadow,
+        sm: $box-shadow-sm,
+        lg: $box-shadow-lg,
+        none: none,
+      )
+    ),
+.photo{
+    margin-left: 20%;
+    
+}
+.card{
+    margin-left:15%;
+    margin-right:15%;
+
+    
+}
+.p-3{
+    margin-top: 2%;
+}
+/*
